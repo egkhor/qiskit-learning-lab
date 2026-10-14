@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use Qiskit Learning Lab, please cite the repository release you used."
+title: "Qiskit Learning Lab"
+type: software
+authors:
+  - family-names: "Khor"
+    given-names: "Isaac Eng Gian"
+version: 0.1.0
+date-released: 2026-10-14
+license: MIT
+repository-code: "https://github.com/egkhor/qiskit-learning-lab"
