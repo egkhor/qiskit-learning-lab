@@ -1,5 +1,7 @@
 # Qiskit Learning Lab
 
+[![tests](https://github.com/egkhor/qiskit-learning-lab/actions/workflows/tests.yml/badge.svg)](https://github.com/egkhor/qiskit-learning-lab/actions/workflows/tests.yml)
+
 An independent, open-source learning toolkit for quantum circuits, simulation, measurement, and hardware-aware transpilation using Qiskit.
 
 **Status:** initial educational release. The core examples are intended for local execution; real-hardware access is optional and is not required for the lessons or tests.
